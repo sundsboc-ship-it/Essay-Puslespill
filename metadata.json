@@ -1,0 +1,5 @@
+{
+  "name": "Montessori Essay Builder",
+  "description": "A structural essay writing tool inspired by Montessori principles, featuring drag-and-drop organization, color-coded sentence analysis, and visual balance feedback using Gemini AI.",
+  "requestFramePermissions": []
+}
